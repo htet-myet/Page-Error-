@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Rhodium+Libre&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@300;400&family=Share+Tech&display=swap');
+*{
+				margin:0;
+				padding: 0;
+				box-sizing:boder-box;
+
+}
+
+body{
+
+	overflow: hidden;
+
+}
+
+.pgerror{
+				display:flex;
+				justify-content:space-between;
+					margin: 20px 40px;
+					width: 1100px;
+							
+}
+
+.logo{
+				font-family: 'Share Tech', sans-serif;
+				margin:10px 40px;
+				font-size:50px;
+				color: #FCAC04;
+		
+}
+
+ul{
+				display:flex;
+}		
+
+ul li{
+				font-family: 'Roboto Condensed', sans-serif;
+				list-style:none;
+				margin:20px 20px;
+				font-size:30px;
+}
+
+.body{
+		 height: 100vh;		
+		
+}		
+
+
+.first-half{
+				display:flex;
+		  	width: 1000px;
+		  justify-content: space-evenly;
+		  align-items:center;
+		 	 height: 100vh;
+	 
+	 
+}
+
+.text{
+		  	display:flex;
+	   	width: 410px;	
+	   	display:inline-block;
+	  		position: relative;
+				right: 10px;	  
+	    
+}
+
+
+.first-line{
+	font-family: 'Rhodium Libre', serif;
+	font-size:55px;
+				
+}
+
+.second-line{
+					font-size:40px;
+					font-family: 'Roboto', sans-serif;
+}
+
+.third-line{
+					font-size:18px;
+					margin:20px 40px 0 0 ;
+					font-family: 'Roboto', sans-serif;
+}
+
+.fourth-line{
+		  	margin:80px 40px 0 0;
+			font-size:25px;
+			background-color: #ffb355;
+			border-radius: 5px;
+			   width: 100px;
+					padding: 20px 45px;
+					font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.errorimg{
+			  	width: 410px;	
+	     
+}
+
+.robot{
+			width: 650px;
+			position: absolute;
+			top: 100px	;
+					
+}		
+
+.vector-one{
+		position: absolute;
+	    left: 20px;
+	 	 
+}
+
+.vector-two{
+   	position: relative;
+   	 right: 95px;
+   	 top: 2px;
+		
+}
